@@ -1,0 +1,189 @@
+# ==========================================
+# Tableau Files
+# ==========================================
+*.twbx
+*.twb
+*.twbx
+*.tde
+*.tds
+*.texp
+*.tsh
+*.tss
+*.tsp
+*.tst
+*.tstx
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz
+*.tstz......
+
+# ==========================================
+# Excel Files
+# ==========================================
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
+*.csv
+*.tsv
+
+# ==========================================
+# System Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs_vista.db
+*.snp
+*.snpx
+*.swp
+*.swf
+*.log
+*.tmp
+*.temp
+
+# ==========================================
+# IDE Files
+# ==========================================
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# Database Files
+# ==========================================
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# ==========================================
+# Environment Files
+# ==========================================
+.env
+.env.local
+.env.*.local
+
+# ==========================================
+# Documentation
+# ==========================================
+*.pdf
+*.docx
+*.pptx
+*.doc
+*.ppt
+
+# ==========================================
+# Screenshots (Optional - Uncomment if needed)
+# ==========================================
+# screenshots/
+# *.png
+# *.jpg
+# *.jpeg
